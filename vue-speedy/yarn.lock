@@ -2195,10 +2195,10 @@ codemirror-spell-checker@*:
   dependencies:
     typo-js "*"
 
-codemirror@*, codemirror@^5.38.0:
-  version "5.44.0"
-  resolved "http://registry.npm.taobao.org/codemirror/download/codemirror-5.44.0.tgz#80dc2a231eeb7aab25ec2405cdca37e693ccf9cc"
-  integrity sha1-gNwqIx7reqsl7CQFzco35pPM+cw=
+codemirror@*, codemirror@^5.58.2:
+  version "5.58.2"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.58.2.tgz#ed54a1796de1498688bea1cdd4e9eeb187565d1b"
+  integrity sha512-K/hOh24cCwRutd1Mk3uLtjWzNISOkm4fvXiMO7LucCrqbh6aJDdtqUziim3MZUI6wOY0rvY1SlL1Ork01uMy6w==
 
 collection-visit@^1.0.0:
   version "1.0.0"
@@ -4998,15 +4998,15 @@ joi@^14.3.0:
     isemail "3.x.x"
     topo "3.x.x"
 
-jquery@1.12.1:
-  version "1.12.1"
-  resolved "http://npm.kanasinfo.cn/jquery/-/jquery-1.12.1.tgz#9cc34ce4780d4ceb90c44328f071064f01960c18"
-  integrity sha1-nMNM5HgNTOuQxEMo8HEGTwGWDBg=
-
 jquery@>=1.9.1:
   version "3.4.0"
   resolved "http://npm.kanasinfo.cn/jquery/-/jquery-3.4.0.tgz#8de513fa0fa4b2c7d2e48a530e26f0596936efdf"
   integrity sha512-ggRCXln9zEqv6OqAGXFEcshF5dSBvCkzj6Gm2gzuR5fWawaX8t7cxKVkkygKODrDAzKdoYw3l/e3pm3vlT4IbQ==
+
+jquery@^3.4.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.0.tgz#c72a09f15c1bdce142f49dbf1170bdf8adac2470"
+  integrity sha512-JVzAR/AjBvVt2BmYhxRCSYysDsPcssdmTFnzyLEts9qNwmjmu4JTAMYubEfwVOSwpQ1I1sKKFcxhZCI2buerfw==
 
 js-calendar@^1.2.3:
   version "1.2.3"
